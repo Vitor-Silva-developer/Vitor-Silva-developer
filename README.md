@@ -1,6 +1,6 @@
 # Hello there, i'm Vitor  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<p>Hi, my name is Vitor, I'm a computer science student and passionate about web and mobile development 🧑‍💻, feel free to talk to me in any of my social medias. Any feedback about my projects are very welcome! </p>
+<p>Hi, my name is Vitor, I'm a Full stack developer with focus on Front End, really passionate about technology and problem solving 🧑‍💻, feel free to talk to me in any of my social medias. Any feedback about my projects are very welcome! </p>
 
 - 🚀 I’m currently learning MERN stack
 - 🙂 I’m looking to collaborate with open source projects and help others programmers whenever I can.
