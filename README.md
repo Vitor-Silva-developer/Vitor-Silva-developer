@@ -1,4 +1,4 @@
-# Hello there, i'm Vitor  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hello there, i'm Vitor
 
 <p>Hi, my name is Vitor, I'm a Full stack developer with focus on Front End, really passionate about technology, movies and games. feel free to talk to me in any of my social medias. Any feedback about my projects are very welcome! </p>
 
