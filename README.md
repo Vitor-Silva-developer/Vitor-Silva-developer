@@ -8,8 +8,8 @@
  <summary>  <b>📈 My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Vitor-Silva-developer&hide=contribs&show_icons=true&theme=algolia&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Silva-developer&theme=algolia&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Vitor-Silva27&hide=contribs&show_icons=true&theme=algolia&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Silva27&theme=algolia&layout=compact">
 </p>
 
 
