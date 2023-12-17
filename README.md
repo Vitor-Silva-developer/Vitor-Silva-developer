@@ -1,7 +1,7 @@
 # Hello devs 👋
 
 
-<img align="right" width="300" src="images/code.gif" />
+<img align="right" width="250" src="images/code.gif" />
 
 ```javascript
 const Vitor {
