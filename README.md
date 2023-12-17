@@ -1,17 +1,16 @@
 # Hello devs 👋
 
 
+<img align="right" width="300" src="images/code.gif" />
 
 ```javascript
 const Vitor {
   name: "Vitor Silva",
     field: "Full Stack developer",
-    tech: ["javascript", "typescript","Java", "Python", "node.js", "Sql",
-    "Figma", "Html", "Css", "React.js", "Next.js"],
+    tech: ["javascript", "typescript","Java", "Python", "node.js", "Sql", "Figma", "Html", "Css", "React.js", "Next.js"],
     thingsILove: ["movies", "games","Technology", "Science"]
 }
 ```
-<img align="center" width="300" src="images/code.gif" />
 
 ## Status
 
