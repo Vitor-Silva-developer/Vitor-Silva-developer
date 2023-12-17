@@ -8,8 +8,9 @@ const Vitor {
   name: "Vitor Silva",
     field: "Full Stack developer",
     tech: ["Javascript", "Typescript","Java", "Python",
-    "Node.js", "Sql", "Figma", "Html", "Css", "React.js",
-    "Next.js"],
+           "Node.js", "Sql", "Figma", "Html", "Css",
+           "React.js", "Next.js"
+    ],
     thingsILove: ["movies", "games","Technology", "Science"]
 }
 ```
