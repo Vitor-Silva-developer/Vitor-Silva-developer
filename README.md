@@ -11,7 +11,7 @@ const Vitor {
            "Node.js", "Sql", "Figma", "Html", "Css",
            "React.js", "Next.js"
     ],
-    thingsILove: ["movies", "games","Technology", "Science"]
+    thingsILove: ["Movies", "Games","Technology", "Science"]
 }
 ```
 
