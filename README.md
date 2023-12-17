@@ -22,7 +22,7 @@ const Vitor {
 </a>
 
 <a href="https://github.com/Vitor-Silva27" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vitor-Silva27&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vitor-Silva27&show_icons=true&theme=dracula&line_height=40" alt="Vitor's github stats"/>
 </a>
 
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
